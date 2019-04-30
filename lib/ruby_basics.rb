@@ -30,6 +30,8 @@ def last_evaluated_value(phrase="expert")
 
 end
 
-def pizza_party
+def pizza_party (default = "cheese")
+  
+  default
 
 end
