@@ -1,20 +1,27 @@
 def division(num1, num2)
- 
-end
+ num1 = 42
+ num2 = 7
+result = num1 / num2
+return result 
+  end
 
 def assign_variable(value)
+  value = "Bob"
+end
+
+def argue(phrase)
+
+ phrase = "I'm right and you are wrong!"
+
+end
+
+def greeting(greeting, name)
+
+end
+
+def return_a_value(phrase)
   
-end
-
-def argue
-  
-end
-
-def greeting
-
-end
-
-def return_a_value
+ "Nice"
 
 end
 
